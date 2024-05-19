@@ -5,7 +5,7 @@ Because I like to use Tailwind CSS colors in my non-Tailwind projects, I created
 ## Example
 
 ```scss
-@import 'tailwind-colors';
+@import 'tailwind-colors-scss';
 
 body {
   background-color: $tw-gray-100;
